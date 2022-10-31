@@ -15,6 +15,7 @@
 		46DE7F43290EB25400D9FFBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46DE7F41290EB25400D9FFBD /* LaunchScreen.storyboard */; };
 		46DE7F4B290EB45800D9FFBD /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DE7F4A290EB45800D9FFBD /* QuizViewController.swift */; };
 		46DE7F4D290EB54500D9FFBD /* ScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DE7F4C290EB54500D9FFBD /* ScoreViewController.swift */; };
+		46DE7F4F290F5DF600D9FFBD /* quiz.csv in Resources */ = {isa = PBXBuildFile; fileRef = 46DE7F4E290F5DF600D9FFBD /* quiz.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		46DE7F44290EB25400D9FFBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46DE7F4A290EB45800D9FFBD /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		46DE7F4C290EB54500D9FFBD /* ScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreViewController.swift; sourceTree = "<group>"; };
+		46DE7F4E290F5DF600D9FFBD /* quiz.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = quiz.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				46DE7F38290EB25200D9FFBD /* SceneDelegate.swift */,
 				46DE7F3A290EB25200D9FFBD /* ViewController.swift */,
 				46DE7F3C290EB25200D9FFBD /* Main.storyboard */,
+				46DE7F4E290F5DF600D9FFBD /* quiz.csv */,
 				46DE7F4C290EB54500D9FFBD /* ScoreViewController.swift */,
 				46DE7F4A290EB45800D9FFBD /* QuizViewController.swift */,
 				46DE7F3F290EB25400D9FFBD /* Assets.xcassets */,
@@ -133,6 +136,7 @@
 				46DE7F43290EB25400D9FFBD /* LaunchScreen.storyboard in Resources */,
 				46DE7F40290EB25400D9FFBD /* Assets.xcassets in Resources */,
 				46DE7F3E290EB25200D9FFBD /* Main.storyboard in Resources */,
+				46DE7F4F290F5DF600D9FFBD /* quiz.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
